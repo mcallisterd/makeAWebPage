@@ -1,4 +1,4 @@
-table{
+table, th, td{
   border-radius: 30px;
   border-top: red;
   border: 2px red;
