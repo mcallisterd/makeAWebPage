@@ -1,6 +1,7 @@
 table{
   border-radius: 30px;
   border-top: red;
+  border: 2px red;
 }
 Body{
   background-color: lightblue;
