@@ -1,5 +1,6 @@
 table{
-  border-style: solid;
+  border-radius: 30px;
+  border-top: red;
 }
 Body{
   background-color: lightblue;
