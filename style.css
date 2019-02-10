@@ -1,6 +1,6 @@
 table{
-  border-color: black
+  border-style: solid;
 }
 Body{
-  background-color: lightblue
+  background-color: lightblue;
 }
