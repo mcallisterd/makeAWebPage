@@ -1,8 +1,21 @@
-p {
-  font-family : Palatino;
-  color: #585c84;
+* {
+  font-family : Georgia;
+  color: #ffffff;
+}
+
+h1,h2,h3,h4,td,th,li {
+  color: #5f6dff;
+}
+
+img,table{
+  border:3px solid black;
+  background-color: #ffa7a7;
+}
+
+p{
+  background-color: #eb6b6b;
 }
 
 body {
-  background-color: #ffa71a;
+  background-color: #d49999;
 }
